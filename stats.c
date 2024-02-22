@@ -12,7 +12,7 @@
  * @file stats.c 
  * @brief source file
  *
- * General code file of stats lib (v2)
+ * General code file of stats lib (Commit-2)
  *
  * @author Melikşah Eryılmaz
  * @date 02.22.2024 

@@ -12,7 +12,7 @@
  * @file stats.h 
  * @brief header file of stats
  *
- * Header file of stats
+ * Header file of stats (Commit-2)
  *
  * @author Melikşah Eryılmaz
  * @date 02.22.2024 
